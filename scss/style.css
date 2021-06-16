@@ -221,7 +221,7 @@ body {
 }
 
 #top-image {
-  background-image: url("/images/jhlar_background.jpgg");
+  background-image: url("../images/jhlar_background.jpgg");
   position: fixed;
   top: 0;
   width: 100vw;
@@ -551,7 +551,7 @@ body {
   height: 50px;
   top: 90%;
   left: 46%;
-  background-image: url("/images/rocket.png");
+  background-image: url("../images/rocket.png");
   background-size: cover;
   -webkit-transform: rotate(-46deg);
           transform: rotate(-46deg);
