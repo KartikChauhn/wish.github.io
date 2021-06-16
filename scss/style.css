@@ -221,7 +221,7 @@ body {
 }
 
 #top-image {
-  background-image: url("//images/jhlar_background.jpg");
+  background-image: url("images/jhlar_background.jpg");
   position: fixed;
   top: 0;
   width: 100vw;
